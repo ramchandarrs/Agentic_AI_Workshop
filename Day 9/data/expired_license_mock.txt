@@ -1,0 +1,6 @@
+License Number: EX999999
+Name: Dr. Expired M.D.
+Issuing Body: National Medical Council (NMC), India
+Expiration Date: 2022-01-01
+Specialty: Orthopedics
+Status: Expired

@@ -1,0 +1,6 @@
+License Number: MD789012
+Name: Dr. Jane Smith
+Issuing Body: State Medical Board of California, USA
+Expiration Date: 2024-06-15
+Specialty: Pediatrics
+Status: Active, Probation (due to minor disciplinary action in 2023)

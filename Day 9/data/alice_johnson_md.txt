@@ -1,0 +1,6 @@
+License Number: AB345678
+Name: Dr. Alice Johnson
+Issuing Body: General Medical Council (GMC), UK
+Expiration Date: 2026-03-20
+Specialty: General Practice
+Status: Active

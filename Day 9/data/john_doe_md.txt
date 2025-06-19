@@ -1,0 +1,6 @@
+License Number: MD123456
+Name: Dr. John Doe
+Issuing Body: National Medical Council (NMC), India
+Expiration Date: 2025-12-31
+Specialty: Cardiology
+Status: Active, Good Standing

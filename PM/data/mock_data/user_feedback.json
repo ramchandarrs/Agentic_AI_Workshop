@@ -1,0 +1,42 @@
+[
+  {
+    "id": "FB001",
+    "source": "G2 Crowd",
+    "rating": 5,
+    "date": "2025-06-18",
+    "text": "The new analytics dashboard is incredibly intuitive! Love the customizable reports. It's a game changer for our team. The predictive features are surprisingly accurate.",
+    "sentiment": "positive"
+  },
+  {
+    "id": "FB002",
+    "source": "Support Ticket",
+    "rating": null,
+    "date": "2025-06-17",
+    "text": "I'm experiencing frequent errors when trying to export large datasets. The system freezes. This is impacting my workflow significantly.",
+    "sentiment": "negative"
+  },
+  {
+    "id": "FB003",
+    "source": "App Store",
+    "rating": 4,
+    "date": "2025-06-16",
+    "text": "Good product overall. The AI insights are helpful, but the onboarding process was a bit confusing. Could be smoother.",
+    "sentiment": "neutral"
+  },
+  {
+    "id": "FB004",
+    "source": "Email Survey",
+    "rating": 3,
+    "date": "2025-06-15",
+    "text": "I wish there were more integration options with other CRM tools. Currently, it's a manual export/import for me. Also, the mobile app is lacking features.",
+    "sentiment": "negative"
+  },
+  {
+    "id": "FB005",
+    "source": "G2 Crowd",
+    "rating": 5,
+    "date": "2025-06-14",
+    "text": "Excellent customer support and the predictive churn model saved us a lot of money last quarter. Highly recommend!",
+    "sentiment": "positive"
+  }
+]
